@@ -1,7 +1,7 @@
 # Rails_Todo_Api
 GraphQL勉強用のAPIアプリです。
 
-![Rails_Todo_Api Postman](images/rails_todo.png)
+![Rails_Todo_Api Postman](images/rails_todo_api.png)
 
 # 起動方法（How to start）
 
